@@ -11,7 +11,13 @@ Offsec nos ofrece una [guía](https://www.offsec.com/blog/kali-linux-customizati
 
 El objetivo de está guía es que aprendas sobre las herramientas de customización que nos ofrece xfce, para que tú mismo puedas configurarlo de la manera que más te agrade.
 
-Comienza -> [aquí](Intro.md) <-
+---
+
+- Comienza a customizar: -> [START](Intro.md) <-
+
+- Shortcuts: [HELP](Shortcuts.md)
+
+---
 
 Estos son algunos ejemplos que he hecho:
 
