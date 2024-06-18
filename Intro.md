@@ -1,4 +1,4 @@
-## Introducción
+## Inicio
 
 En este caso vamos a modificar nuestro entorno con las mismas herramientas que ya nos ofrece el sistema, por lo tanto debemos de considerar las siguientes cosas:
 
