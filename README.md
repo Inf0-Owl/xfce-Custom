@@ -14,7 +14,7 @@ El objetivo de está guía es que aprendas sobre las herramientas de customizaci
 Estos son algunos ejemplos que he hecho:
 
 Ejemplo 1/ Green:
-![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/bd15bb9a-59f1-4d11-9437-c6c8bd89208d)
+![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/19e351d1-1072-4843-98e6-810394054bd6)
 
 
 Eejemplo 2/ Dark-kali:
