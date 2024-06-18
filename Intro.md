@@ -19,6 +19,8 @@ Podemos descargar más paquetes de iconos, y usarlos si queremos, pero los que o
 
 ***NOTA: La tecla "super", es la tecla windows o cmd, dependiendo del teclado.***
 
-Menú:
+---
+
+LEVELS:
 
 
