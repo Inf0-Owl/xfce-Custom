@@ -29,13 +29,13 @@ LEVEL'S:
 [ [1](LEVELS/Appearance.md) | [2](LEVELS/Windows.md) | [3](LEVELS/Terminal.md) | [4](LEVELS/Keyboard.md) 
 | [5](LEVELS/Mouse.md) | [6](LEVELS/Panel.md) | [7](LEVELS/Desktop.md) ]
 
-1 - Apariencia general
-2 - Comportamiento del entorno y ventanas
-3 - Personalización de la terminal
-4 - Configuración del teclado
-5 - Configuración del mouse
-6 - Configuración del panel
-7 - Configuración del escritorio
-8 - Extra
+- 1 Apariencia general
+- 2 Comportamiento del entorno y ventanas
+- 3 Personalización de la terminal
+- 4 Configuración del teclado
+- 5 Configuración del mouse
+- 6 Configuración del panel
+- 7 Configuración del escritorio
+- 8 Extra
 
 [Back to README](README.md)
