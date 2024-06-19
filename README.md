@@ -25,6 +25,9 @@ Ejemplo 1/ Green:
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/19e351d1-1072-4843-98e6-810394054bd6)
 
 
+https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/5ae39e10-5fa8-4072-8e7f-308b34b19a5a
+
+
 Eejemplo 2/ Dark-kali:
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/05fdba65-71e4-4473-a304-a3cca7b6372f)
 
