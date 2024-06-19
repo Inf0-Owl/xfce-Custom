@@ -26,3 +26,5 @@ Para saber la ruta absoluta para la ruta absoluta de un programa o como se ejecu
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/4cee6515-ecc0-4574-8a40-550a1bc9b75b)
 
 Despues nos solicitará presionar las teclas a usar para el shortcut.
+
+[Back to Intro](../Intro.md)
