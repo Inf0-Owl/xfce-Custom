@@ -1,5 +1,7 @@
 [Back to intro](Intro.md)
 
+[Back to RADME](README.md)
+
 Estos son algunos de los shortcuts que he configurado, pienso te pueden ayudar:
 
 `super + return/enter`: Abre una terminal.
