@@ -36,6 +36,8 @@ Te dejo mis configuraciones como ejemplo, para que te inspires.
 
 Aquí puedes ver como funcionan algunos: [HELP](../Shortcuts.md)
 
+[Back to Intro](../Intro.md)
+
 ---
 
 ### Ejemplos
