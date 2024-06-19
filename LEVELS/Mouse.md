@@ -25,4 +25,4 @@ Tenemos los ajustes básicos como con el mouse, y los de "Touchpad":
 La opción: "Tap touchpad to click", es la que debemos ativar si queremos que al tocar 2 veces el touchpad interactue, 
 con un dedo es clic izquierdo, con 2 dedos, es clic derecho, o también seleccionar, y opciónes.
 
-
+[Back to Intro](../Intro.md)
