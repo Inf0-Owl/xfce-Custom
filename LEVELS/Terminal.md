@@ -44,3 +44,5 @@ También puedes configurar los shortcuts de la terminal, en lo personal, creo qu
 De `ctrl + shift + c` a `ctrl + c` para copiar.
 
 De `ctrl + shift + v` a `ctrl + v` para pegar.
+
+[Back to Intro](../Intro.md)
