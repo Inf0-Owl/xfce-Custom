@@ -19,6 +19,9 @@ Podemos descargar más paquetes de iconos, y usarlos si queremos, pero los que o
 
 ***NOTA: La tecla "super", es la tecla windows o cmd, dependiendo del teclado.***
 
+Si estás usando gnome, kde, u otro, puedes instalar XFCE con la siguiente linea de comando:
+`sudo apt install -y kali-desktop-xfce`
+
 ---
 
 LEVEL'S:
