@@ -118,3 +118,8 @@ otro para mostrar las aplicaciones del workspace actual,
 otro para espacios de trabajo, y otro para items del sistema:
 
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/ca973f01-cf6e-482b-8dbd-a1562e37a7a4)
+
+[Back to Intro](../Intro.md)
+
+Esto también te puede interesar:
+
