@@ -30,3 +30,5 @@ Y descomprimir el archivo:
 `unzip nombre_de_archivo.zip`
 
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/d6c956d9-a63d-4303-ad12-d662fe44aa2e)
+
+[Back to intro](../Intro.md)
