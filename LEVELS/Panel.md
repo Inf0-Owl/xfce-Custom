@@ -122,4 +122,6 @@ otro para espacios de trabajo, y otro para items del sistema:
 [Back to Intro](../Intro.md)
 
 Esto también te puede interesar:
-
+- [Special Items](../SUB-LEVELS/Special_Items.md)
+- [Whisker-Menu](../SUB-LEVELS/Whisker-Menu.md)
+- [Workspaces](../SUB-LEVELS/Workspaces.md)
