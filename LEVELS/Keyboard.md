@@ -11,7 +11,7 @@ es cuanto se tarda el sistema en interpretar que queremos repetir la misma tecla
 
 Pero probablemente lo mejor que podamos configurar aquí, 
 son los shortcuts de aplicación. 
-(Estos shortcuts toman en cuenta los del [Window manager](LEVELS/Windows.md), si hay problemas de compatibilidad dará una alerta)
+(Estos shortcuts toman en cuenta los del [Window manager](Windows.md), si hay problemas de compatibilidad dará una alerta)
 
 Aquí podemos definir con que atajos de teclado queremos abrir alguna aplicación:
 
