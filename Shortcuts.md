@@ -1,3 +1,5 @@
+[Back to intro](Intro.md)
+
 Estos son algunos de los shortcuts que he configurado, pienso te pueden ayudar:
 
 `super + return/enter`: Abre una terminal.
