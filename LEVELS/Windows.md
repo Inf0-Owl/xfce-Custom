@@ -34,7 +34,7 @@ Si no queremos alguna función activa, le damos "clear", para dejarla sin shortc
 
 Te dejo mis configuraciones como ejemplo, para que te inspires.
 
-Aquí puedes ver como funcionan algunos: [HELP](Shortcuts.md)
+Aquí puedes ver como funcionan algunos: [HELP](../Shortcuts.md)
 
 ---
 
