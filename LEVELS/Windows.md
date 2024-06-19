@@ -22,7 +22,7 @@ Cuando lo configuramos con "Focus follows mouse":
 El delay decidira cuanto tiempo se tarda en cambiar el foucus a la ventana sobre la que se posiciona el mouse.
 
 Para defenir el comportamiento de las ventanas y del entorno con atajos del teclado, 
-podemos usar el apartado "Keyboard" (Estos shortcuts toman en cuenta los del [[#Teclado]], si hay problemas de compatibilidad dará una alerta)
+podemos usar el apartado "Keyboard" (Estos shortcuts toman en cuenta los del [keyboard](Keyboard.md), si hay problemas de compatibilidad dará una alerta)
 
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/a8f00a32-e35b-494f-b8ac-edca9b546254)
 
