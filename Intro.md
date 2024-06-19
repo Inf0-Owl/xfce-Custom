@@ -24,7 +24,7 @@ Podemos descargar más paquetes de iconos, y usarlos si queremos, pero los que o
 LEVEL'S:
 
 [ [1](LEVELS/Appearance.md) | [2](LEVELS/Windows.md) | [3](LEVELS/Terminal.md) | [4](LEVELS/Keyboard.md) 
-| [5](LEVELS/Mouse.md) ]
+| [5](LEVELS/Mouse.md) | [6](LEVELS/Panel.md) ]
 
 
 [Back to README](README.md)
