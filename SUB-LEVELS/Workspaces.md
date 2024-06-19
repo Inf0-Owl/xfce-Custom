@@ -17,3 +17,4 @@ Simplemente cambiamos el texto del Workspace name, por un emoji:
 
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/61b9a475-3198-4bc9-a1eb-52e6184d5146)
 
+[Back to Intro](../Intro.md)
