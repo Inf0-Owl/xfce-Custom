@@ -24,7 +24,7 @@ Y aquí podemos configurar las fuentes que se usarán en la mayoria de nuestras 
 
 ![image](https://github.com/Inf0sth/Kali-linux-Custom/assets/106565371/e8417d1d-f574-4416-a29d-db4d2e00aa62)
 
-Más de tipografía: [s-1](../SUB-LEVELS/Tipografía.md)
+Más de [Tipografía](../SUB-LEVELS/Tipografía.md).
 
 [Back to Intro](../Intro.md)
 
