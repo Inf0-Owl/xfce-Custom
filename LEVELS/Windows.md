@@ -36,6 +36,23 @@ Te dejo mis configuraciones como ejemplo, para que te inspires.
 
 Aquí puedes ver como funcionan algunos: [HELP](../Shortcuts.md)
 
+### Tranparencia
+
+En caso de que quieras que tu sistema se vea un poco más detallado o estilizado, podemos configurar también la transparencia de las ventanas.
+
+Para esto buscaremos la opción "Window Manager Tweaks":
+
+![image](https://github.com/user-attachments/assets/64969320-36f4-4e78-8a9f-f7685b341575)
+
+Tiene muy buenas configuraciones adicionales, por lo que vale la pena que le des una buena revisada. 
+
+Vamos al apartado "Compositor":
+
+![image](https://github.com/user-attachments/assets/a97efc49-6bad-4612-b363-6d5d00a9bf63)
+
+Podemos configurar la transparencia de los bordes y de las ventanas inactivas en las opciones "Opacity".
+
+
 [Back to Intro](../Intro.md)
 
 ---
