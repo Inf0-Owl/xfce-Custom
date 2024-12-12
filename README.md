@@ -17,6 +17,8 @@ El objetivo de está guía es que aprendas sobre las herramientas de customizaci
 
 - Shortcuts: [HELP](Shortcuts.md)
 
+- [My Wallpapers](/Wallpapers)
+
 ---
 
 Estos son algunos ejemplos que he hecho:
