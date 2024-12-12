@@ -28,3 +28,16 @@ Para saber la ruta absoluta para la ruta absoluta de un programa o como se ejecu
 Despues nos solicitará presionar las teclas a usar para el shortcut.
 
 [Back to Intro](../Intro.md)
+
+En caso de que quieras cofigurar el idicma, vamos al apartado "Layout":
+
+![image](https://github.com/user-attachments/assets/ea62ddf0-498c-42f2-a80c-af0d367fe404)
+
+En el apartado "add", podemos agregar nuevos lenguajes.
+
+Y para poder cambiar entre lenguajes y distribuciones de forma eficiente, podemos configurar un atajo de teclado en este apartado:
+
+![image](https://github.com/user-attachments/assets/4a72c5ed-9c56-4c53-93e4-a6f776bcdcb2)
+
+En lo personal me ha resultado bastante como al trabajar con mi teclado favorito que esta en ingles, y con el de la laptop, el cual está en español.
+
